@@ -23,4 +23,4 @@ Durante o desenvolvimento deste projeto, foram consolidados os seguintes fundame
 1. Certifique-se de ter o [.NET SDK 8.0](https://dotnet.microsoft.com/download) ou superior instalado na sua máquina.
 2. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+   git clone https://github.com/GustavoFonsecaaaa/Gerenciador-Adocao-OOP.git
